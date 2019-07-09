@@ -15,7 +15,7 @@ A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qli
 - [Official Resources and Documentation](#official-resources-and-documentation)
 - [Community Resources and Blogs](#community-resources-and-blogs)
 - [Articles, Guides, Tutorials](#articles-guides-tutorials)
-- [Extensions)(#extensions)
+- [Extensions](#extensions)
 - [Contributing](#contributing)
 
 ---

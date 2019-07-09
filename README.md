@@ -14,7 +14,6 @@ A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qli
 
 - [Official Resources and Documentation](#official-resources-and-documentation)
 - [Community Resources and Blogs](#community-resources-and-blogs)
-- [Articles, Guides, Tutorials](#articles-guides-tutorials)
 - [Extensions](#extensions)
 - [Contributing](#contributing)
 
@@ -30,10 +29,6 @@ A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qli
 - [Qlik Community](https://community.qlik.com) - Qlik Community: product forums, resources, services, events, groups, and blogs on the Qlik platform.
 - [QlikFix](http://www.qlikfix.com) - A blog dedicated to QlikView and Qlik Sense tips, tricks and tutorials from Barry Harmsen.
 - Reddit - Subreddits: [r/Qlik](https://www.reddit.com/r/qlik/), [r/QlikSense/](https://www.reddit.com/r/qliksense/), [r/QlikView](https://www.reddit.com/r/qlikview/
-
-## Articles/Guides/Tutorials
-
-- [Name](URL) - Description.
 
 ## Extensions
 

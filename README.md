@@ -28,7 +28,7 @@ A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qli
 - [Living QlikView](http://livingqlikview.com/) - Aaron Couron's blog with in-depth articles, technical tips and tricks, and reviews of third-party applications and resources that help to progress with QlikView and Qlik Sense.
 - [Qlik Community](https://community.qlik.com) - Qlik Community: product forums, resources, services, events, groups, and blogs on the Qlik platform.
 - [QlikFix](http://www.qlikfix.com) - A blog dedicated to QlikView and Qlik Sense tips, tricks and tutorials from Barry Harmsen.
-- Reddit - Subreddits: [r/Qlik](https://www.reddit.com/r/qlik/), [r/QlikSense/](https://www.reddit.com/r/qliksense/), [r/QlikView](https://www.reddit.com/r/qlikview/
+- Reddit - Subreddits: [r/Qlik](https://www.reddit.com/r/qlik/), [r/QlikSense/](https://www.reddit.com/r/qliksense/), [r/QlikView](https://www.reddit.com/r/qlikview/)
 
 ## Extensions
 

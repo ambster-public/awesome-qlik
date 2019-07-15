@@ -34,6 +34,10 @@ A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qli
 - [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
 - [/r/Qlik](https://www.reddit.com/r/qlik/), [/r/QlikSense/](https://www.reddit.com/r/qliksense/), [/r/QlikView](https://www.reddit.com/r/qlikview/) - Reddit subreddits about Qlik, Qlik Sense, and QlikView respectively.
 
+## Qlik Open Source Software
+
+- [corectl](https://github.com/qlik-oss/corectl) - A command line tool to perform reloads, fetch metadata and evaluate expressions in Qlik qvf apps.
+
 ## Extensions
 
 - [AnyChart](https://qlik.anychart.com)

@@ -24,7 +24,7 @@ Qlik is a software company founded in 1993 whose main products are QlikView and 
 - [QlikFix](http://www.qlikfix.com) - A blog dedicated to QlikView and Qlik Sense tips, tricks and tutorials from Barry Harmsen.
 - [QlikView Cookbook](https://qlikviewcookbook.com/) - A technical 'how-to' blog for QlikView developers, by Rob Wunderlich.
 - [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
-- [/r/Qlik](https://www.reddit.com/r/qlik/), [/r/QlikSense/](https://www.reddit.com/r/qliksense/), [/r/QlikView](https://www.reddit.com/r/qlikview/) - Reddit subreddits about Qlik, Qlik Sense, and QlikView respectively.
+- [/r/Qlik](https://www.reddit.com/r/qlik/) and [/r/QlikSense/](https://www.reddit.com/r/qliksense/) and [/r/QlikView](https://www.reddit.com/r/qlikview/) - Reddit subreddits about Qlik, Qlik Sense, and QlikView respectively.
 
 ## Extensions
 
@@ -32,9 +32,9 @@ Qlik is a software company founded in 1993 whose main products are QlikView and 
 - [trueChart](https://www.truechart.com)
 - [VizLib](https://www.vizlib.com)
 
-## Contributing
+## Contribute
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ambster-public/awesome-qlik/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ambster-public/awesome-qlik/blob/master/contributing.md) first.
 
 ## License
 

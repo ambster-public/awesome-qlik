@@ -1,14 +1,8 @@
-# Awesome Qlik [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Qlik [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://webapps.qlik.com/WarsawMarathon/qlik.jpg" width="250" align="right" alt="Qlik logo">](https://qlik.com)
 
-A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qlik is a software company founded in 1993 whose main products are QlikView and Qlik Sense, both software for business intelligence and data visualization and analytics.
+> Curated list of awesome [Qlik](https://qlik.com) guides, blogs, extensions, and other resources.
 
-<h1 align="center" style="border-bottom: 0px;">
-	<br>
-	<img width="400" src="https://webapps.qlik.com/WarsawMarathon/qlik.jpg" alt="Qlik logo">
-	<br>
-  <br>
-</h1>
-<br>
+Qlik is a software company founded in 1993 whose main products are QlikView and Qlik Sense, both software for business intelligence and data visualization and analytics.
 
 ## Contents
 
@@ -16,8 +10,6 @@ A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qli
 - [Community Resources and Blogs](#community-resources-and-blogs)
 - [Extensions](#extensions)
 - [Contributing](#contributing)
-
----
 
 ## Official Resources and Documentation
 
@@ -43,3 +35,12 @@ A curated list of awesome [Qlik](https://qlik.com) extensions and resources. Qli
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ambster-public/awesome-qlik/blob/master/CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [Ambster](https://github.com/ambster-public) has waived all copyright and
+related or neighboring rights to this work.
+
+> Qlik is a registered trademark of Qlik Technologies, Inc.

@@ -2,7 +2,7 @@
 
 > Curated list of awesome [Qlik](https://qlik.com) guides, blogs, extensions, and other resources.
 
-Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-intelligence) business intelligence platform delivering solutions for data visualisation, analytics, and reporting. Running on the same engine, its main products are QlikView (for guided analytics) and Qlik Sense (for self-service BI).
+Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-intelligence) business intelligence platform delivering solutions for data visualisation, analytics, and reporting. Running on the same engine, its main products are [QlikView](https://www.qlik.com/us/products/qlikview) (for guided analytics) and [Qlik Sense](https://www.qlik.com/us/products/qlik-sense) (for self-service BI).
 
 ## Contents
 

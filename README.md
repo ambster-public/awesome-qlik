@@ -22,7 +22,10 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 - [QlikFix](http://www.qlikfix.com) - A blog dedicated to QlikView and Qlik Sense tips, tricks and tutorials from Barry Harmsen.
 - [QlikView Cookbook](https://qlikviewcookbook.com/) - A technical 'how-to' blog for QlikView developers, by Rob Wunderlich.
 - [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
-- [/r/Qlik](https://www.reddit.com/r/qlik/) - Reddit subreddit about Qlik.
+- Reddit subreddits:
+ - [/r/Qlik](https://www.reddit.com/r/qlik/) - Reddit subreddit about Qlik.
+ - [/r/QlikSense](https://www.reddit.com/r/qliksense/) - Reddit subreddit about Qlik Sense.
+ - [/r/QlikView](https://www.reddit.com/r/qlikview/) - Reddit subreddit about QlikView.
 
 ## Extensions
 
@@ -30,7 +33,7 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 - [trueChart](https://www.truechart.com)
 - [VizLib](https://www.vizlib.com)
 
-## Contributing
+## Contribution
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ambster-public/awesome-qlik/blob/master/contributing.md) first.
 
@@ -38,6 +41,6 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [Ambster](https://github.com/ambster-public) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [ambster](https://github.com/ambster-public) has waived all copyright and related or neighboring rights to this work.
 
 > Qlik is a registered trademark of Qlik Technologies, Inc.

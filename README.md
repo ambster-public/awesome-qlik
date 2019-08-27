@@ -2,7 +2,7 @@
 
 > Curated list of awesome [Qlik](https://qlik.com) guides, blogs, extensions, and other resources.
 
-Qlik is a software company founded in 1993 whose main products are QlikView and Qlik Sense, both software for business intelligence and data visualization and analytics.
+Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-intelligence) business intelligence platform delivering solutions for data visualisation, analytics, and reporting. Running on the same engine, its main products are QlikView (for guided analytics) and Qlik Sense (for self-service BI).
 
 ## Contents
 

@@ -8,6 +8,7 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 
 - [Official Resources and Documentation](#official-resources-and-documentation)
 - [Community Resources and Blogs](#community-resources-and-blogs)
+- [Books](#books)
 - [Extensions](#extensions)
 
 ## Official Resources and Documentation

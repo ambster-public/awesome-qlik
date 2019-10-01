@@ -21,11 +21,35 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 - [QlikCentral](https://qlikcentral.com/) - A blog where Richard Pearce shares insight and technical examples he develops in QlikView and Qlik Sense.
 - [QlikFix](http://www.qlikfix.com) - A blog dedicated to QlikView and Qlik Sense tips, tricks and tutorials from Barry Harmsen.
 - [QlikView Cookbook](https://qlikviewcookbook.com/) - A technical 'how-to' blog for QlikView developers, by Rob Wunderlich.
+- [Qlik Tips](https://www.qliktips.com) - An all-things-Qlik blog by Stephen Redmond.
 - [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
 - Reddit subreddits:
   - [/r/Qlik](https://www.reddit.com/r/qlik/) - Subreddit about Qlik.
   - [/r/QlikSense](https://www.reddit.com/r/qliksense/) - Subreddit about Qlik Sense.
   - [/r/QlikView](https://www.reddit.com/r/qlikview/) - Subreddit about QlikView.
+  
+## Books
+  
+### About Qlik Sense
+
+- *Learning Qlik Sense: The Official Guide*, by Christopher Ilacqua, Henric Cronström et al.
+- *Qlik Sense Cookbook*, by Pablo Labbe, Philip Hand et al.
+- *Qlik Sense for Beginners*, by Mark O'Donovan 
+- *Qlik Sense: Advanced Data Visualization for Your Organization*, by Dr. Christopher Ilacqua et al.
+- *Predictive Analytics Using Rattle and Qlik Sense*, by Ferran Garcia Pagans
+- *Mastering Qlik Sense*, by Martin Mahler and Juan Ignacio Vitantonio
+- *Implementing Qlik Sense*, by Ganapati Hegde and Kaushik Solanki
+
+### About QlikView
+
+- *QlikView Essentials*, by Chandraish Sinha
+- *Creating Stunning Dashboards with QlikView*, by Julián Villafuerte
+- *QlikView for Finance*, by B. Diane Blackwood
+- *QlikView Unlocked*, by Roger Stone and Andrew Dove
+- *Practical QlikView*, by Mark O'Donovan
+- *QlikView 11 for Developers*, by Miguel García and Barry Harmsen
+- *QlikView Scripting*, by Matt Floyd
+- *QlikView Server and Publisher*, by Stephen Redmond
 
 ## Extensions
 

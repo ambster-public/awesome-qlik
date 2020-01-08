@@ -53,6 +53,10 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 - [QlikView Scripting](https://books.google.com/books/about/QlikView_Scripting.html?id=wng3ngEACAAJ&redir_esc=y) - By Matt Floyd.
 - [QlikView Server and Publisher](https://books.google.com/books/about/QlikView_Server_and_Publisher.html?id=gDOhAgAAQBAJ&redir_esc=y) - By Stephen Redmond.
 
+## Qlik Open Source Software
+
+- [corectl](https://github.com/qlik-oss/corectl) - A command line tool to perform reloads, fetch metadata and evaluate expressions in Qlik qvf apps.
+
 ## Extensions
 
 - [AnyChart](https://qlik.anychart.com)
